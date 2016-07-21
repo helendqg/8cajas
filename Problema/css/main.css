@@ -1,0 +1,24 @@
+/* Inserta tu CSS aqui */
+div{
+	width:200px;
+	height:200px;
+	background-color:black; 
+	margin:10px;
+}
+.cajapadre{
+	width:630px;
+	height:200px;
+}
+.hijo{
+	width:180px;
+	height:180px;
+	border:white 1px solid;
+	float:left;
+}
+.rebelde{
+	position:absolute;
+	top:;
+	bottom:;
+	right:;
+	left:250px;
+}
