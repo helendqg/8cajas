@@ -1,24 +1,19 @@
-/* Inserta tu CSS aqui */
-div{
-	width:200px;
-	height:200px;
-	background-color:black; 
-	margin:10px;
+.caja{
+	background-color: gray;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	margin: 5px;
 }
-.cajapadre{
-	width:630px;
-	height:200px;
+
+.inline-block{
+	display: inline-block;
 }
-.hijo{
-	width:180px;
-	height:180px;
-	border:white 1px solid;
-	float:left;
-}
-.rebelde{
-	position:absolute;
-	top:;
-	bottom:;
-	right:;
-	left:250px;
+
+.caja-grande{
+	background-color: gray;
+	border: 1px solid black;
+	padding: 5px;
+	width: 350px;
+	margin: 5px;
 }
