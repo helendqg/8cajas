@@ -1,0 +1,19 @@
+.cajas{
+	background-color:gray;
+ 	width:100px;
+ 	height:100px;
+ 	border:1px solid black;
+ 	margin:5px;
+ }
+
+ .cajapadre{
+ 	background-color:gray;
+ 	border:1px solid black;
+ 	padding: 5px;
+ 	width:350px;
+ 	margin: 5px;
+ }
+
+ .hijo{
+ 	display:inline-block;
+}
